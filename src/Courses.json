@@ -1,0 +1,72 @@
+[
+    {
+        "year": 3,
+        "periods": [
+            {
+                "period": 1,
+                "courses": [
+                    {
+                        "code": "FRTF05",
+                        "name": "Reglerteknik, AK",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EDAP10",
+                        "name": "Flertrådad Programmering",
+                        "hp": "7,5"
+                    }
+                ]
+            },
+            {
+                "period": 1,
+                "courses": [
+                    {
+                        "code": "ETSF25",
+                        "name": "Affärsdrivenprogramvaruutveckling",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "FMSF20",
+                        "name": "Matematisk Statistik, AK",
+                        "hp": "7,5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 4,
+        "periods": [
+            {
+                "period": 2,
+                "courses": [
+                    {
+                        "code": "FRTF05",
+                        "name": "Reglerteknik, AK",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EDAP10",
+                        "name": "Flertrådad Programmering",
+                        "hp": "7,5"
+                    }
+                ]
+            },
+            {
+                "period": 2,
+                "courses": [
+                    {
+                        "code": "ETSF25",
+                        "name": "Affärsdrivenprogramvaruutveckling",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "FMSF20",
+                        "name": "Matematisk Statistik, AK",
+                        "hp": "7,5"
+                    }
+                ]
+            }
+        ]
+    }
+]
