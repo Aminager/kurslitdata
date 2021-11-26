@@ -1,5 +1,176 @@
 [
     {
+        "year": 1,
+        "periods": [
+            {
+                "period": 1,
+                "courses": [
+                    {
+                        "code": "EDAA45",
+                        "name": "Programmering Grundkurs",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "FMAB65",
+                        "name": "Endimensionell analys B1",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EDAA60",
+                        "name": "Datorer och datoranvändning",
+                        "hp": "3"
+                    }
+                ]
+            },
+            {
+                "period": 2,
+                "courses": [
+                    {
+                        "code": "EDAA45",
+                        "name": "Programmering Grundkurs",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "FMAB70",
+                        "name": "Endimensionell analys B2",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EXTA65",
+                        "name": "Kognition",
+                        "hp": "4,5"
+                    }   
+                ]
+            },
+            {
+                "period": 3,
+                "courses": [
+                    {
+                        "code": "FAFA60",
+                        "name": "Fotonik",
+                        "hp": "5"
+                    },
+                    {
+                        "code": "EDAA01",
+                        "name": "Programmeringsteknik - fördjupningskurs",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EDAA35",
+                        "name": "Utvärdering av programvarusystem",
+                        "hp": "7"
+                    }
+                    
+                ]
+            },
+            {
+                "period": 4,
+                "courses": [
+                    {
+                        "code": "EDAA35",
+                        "name": "Utvärdering av programvarusystem",
+                        "hp": "7"
+                    },
+                    {
+                        "code": "EDAA40",
+                        "name": "Diskreta strukturer i datavetenskap",
+                        "hp": "5"
+                    },
+                    {
+                        "code": "FMAB20",
+                        "name": "Linjär Algebra",
+                        "hp": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2,
+        "periods": [
+            {
+                "period": 1,
+                "courses": [
+                    {
+                        "code": "FMAB30",
+                        "name": "Flerdimensionell Analys",
+                        "hp": "6"
+                    },
+                    {
+                        "code": "EDAF60",
+                        "name": "Objektorienterad modellering och design",
+                        "hp": "4,5"
+                    },
+                    {
+                        "code": "EITF65",
+                        "name": "Digitalteknik",
+                        "hp": "9"
+                    }
+                ]
+            },
+            {
+                "period": 2,
+                "courses": [
+                    {
+                        "code": "EITF65",
+                        "name": "Digitalteknik",
+                        "hp": "9"
+                    },
+                    {
+                        "code": "EITF45",
+                        "name": "Datorkommmunikation",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EDAF45",
+                        "name": "Programvaruutveckling i grupp - projekt",
+                        "hp": "7,5"
+                    }
+                ]
+            },
+            {
+                "period": 3,
+                "courses": [
+                    {
+                        "code": "EDAF45",
+                        "name": "Programvaruutveckling i grupp - projekt",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "EITF70",
+                        "name": "Datorteknik",
+                        "hp": "6"
+                    },
+                    {
+                        "code": "FMAF10",
+                        "name": "Tillämpad Matematik - Linjära system",
+                        "hp": "5"
+                    }
+                ]
+            },
+            {
+                "period": 4,
+                "courses": [
+                    {
+                        "code": "EDAF05",
+                        "name": "Algoritmer, datastrukturer och komplexitet",
+                        "hp": "5"
+                    },
+                    {
+                        "code": "EITA10",
+                        "name": "Elektronik",
+                        "hp": "5"
+                    },
+                    {
+                        "code": "EDAF95",
+                        "name": "Grundläggande funktionsprogrammering",
+                        "hp": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "year": 3,
         "periods": [
             {
@@ -31,42 +202,55 @@
                         "hp": "7,5"
                     }
                 ]
+            },
+            {
+                "period": 3,
+                "courses": [
+                    {
+                        "code": "EITA25",
+                        "name": "Datasäkerhet",
+                        "hp": "7,5"
+                    },
+                    {
+                        "code": "FMNF05",
+                        "name": "Numerisk analys",
+                        "hp": "6"
+                    },
+                    {
+                        "code": "FMIF45",
+                        "name": "Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik",
+                        "hp": "4"
+                    }
+                ]
+            },
+            {
+                "period": 4,
+                "courses": [
+                    {
+                        "code": "FMIF45",
+                        "name": "Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik",
+                        "hp": "4"
+                    },
+                    {
+                        "code": "EITF95",
+                        "name": "Kösystem",
+                        "hp": "4,5"
+                    },
+                    {
+                        "code": "EITA50",
+                        "name": "Signalbehandling i multimedia",
+                        "hp": "7,5"
+                    }
+                ]
             }
         ]
     },
     {
         "year": 4,
-        "periods": [
-            {
-                "period": 1,
-                "courses": [
-                    {
-                        "code": "FRTF05",
-                        "name": "Reglerteknik, AK",
-                        "hp": "7,5"
-                    },
-                    {
-                        "code": "EDAP10",
-                        "name": "Flertrådad Programmering",
-                        "hp": "7,5"
-                    }
-                ]
-            },
-            {
-                "period": 2,
-                "courses": [
-                    {
-                        "code": "ETSF25",
-                        "name": "Affärsdrivenprogramvaruutveckling",
-                        "hp": "7,5"
-                    },
-                    {
-                        "code": "FMSF20",
-                        "name": "Matematisk Statistik, AK",
-                        "hp": "7,5"
-                    }
-                ]
-            }
-        ]
+        "periods": []
+    },
+    {
+        "year": 5,
+        "periods": []
     }
 ]
