@@ -9,7 +9,7 @@ export default function Semester({ year, period }) {
 
 
     function getCourses() {
-        return periodCourses.at(0)?.courses.map(c => <Course key={c.code} code={c.code} name={c.name} hp={c.hp} />)
+        return periodCourses.at(0)?.courses.map(c => <Course key={c.code} code={c.code} name={c.name} hp={c.hp} link={c.link} />)
     }
 
     return (

@@ -8,17 +8,20 @@
                     {
                         "code": "EDAA45",
                         "name": "Programmering Grundkurs",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": "https://drive.google.com/file/d/1h5q17_3rcTQDbS7NcvHghDz9U-aG3r8Z/view?usp=sharing"    
                     },
                     {
                         "code": "FMAB65",
                         "name": "Endimensionell analys B1",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "EDAA60",
                         "name": "Datorer och datoranvändning",
-                        "hp": "3"
+                        "hp": "3",
+                        "link": ""
                     }
                 ]
             },
@@ -28,17 +31,20 @@
                     {
                         "code": "EDAA45",
                         "name": "Programmering Grundkurs",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "FMAB70",
                         "name": "Endimensionell analys B2",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "EXTA65",
                         "name": "Kognition",
-                        "hp": "4,5"
+                        "hp": "4,5",
+                        "link": ""
                     }   
                 ]
             },
@@ -48,17 +54,20 @@
                     {
                         "code": "FAFA60",
                         "name": "Fotonik",
-                        "hp": "5"
+                        "hp": "5",
+                        "link": ""
                     },
                     {
                         "code": "EDAA01",
                         "name": "Programmeringsteknik - fördjupningskurs",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "EDAA35",
                         "name": "Utvärdering av programvarusystem",
-                        "hp": "7"
+                        "hp": "7",
+                        "link": ""
                     }
                     
                 ]
@@ -69,17 +78,20 @@
                     {
                         "code": "EDAA35",
                         "name": "Utvärdering av programvarusystem",
-                        "hp": "7"
+                        "hp": "7",
+                        "link": ""
                     },
                     {
                         "code": "EDAA40",
                         "name": "Diskreta strukturer i datavetenskap",
-                        "hp": "5"
+                        "hp": "5",
+                        "link": ""
                     },
                     {
                         "code": "FMAB20",
                         "name": "Linjär Algebra",
-                        "hp": "6"
+                        "hp": "6",
+                        "link": ""
                     }
                 ]
             }
@@ -94,17 +106,20 @@
                     {
                         "code": "FMAB30",
                         "name": "Flerdimensionell Analys",
-                        "hp": "6"
+                        "hp": "6",
+                        "link": ""
                     },
                     {
                         "code": "EDAF60",
                         "name": "Objektorienterad modellering och design",
-                        "hp": "4,5"
+                        "hp": "4,5",
+                        "link": ""
                     },
                     {
                         "code": "EITF65",
                         "name": "Digitalteknik",
-                        "hp": "9"
+                        "hp": "9",
+                        "link": ""
                     }
                 ]
             },
@@ -114,17 +129,20 @@
                     {
                         "code": "EITF65",
                         "name": "Digitalteknik",
-                        "hp": "9"
+                        "hp": "9",
+                        "link": ""
                     },
                     {
                         "code": "EITF45",
                         "name": "Datorkommmunikation",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "EDAF45",
                         "name": "Programvaruutveckling i grupp - projekt",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     }
                 ]
             },
@@ -134,17 +152,20 @@
                     {
                         "code": "EDAF45",
                         "name": "Programvaruutveckling i grupp - projekt",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "EITF70",
                         "name": "Datorteknik",
-                        "hp": "6"
+                        "hp": "6",
+                        "link": ""
                     },
                     {
                         "code": "FMAF10",
                         "name": "Tillämpad Matematik - Linjära system",
-                        "hp": "5"
+                        "hp": "5",
+                        "link": ""
                     }
                 ]
             },
@@ -154,17 +175,20 @@
                     {
                         "code": "EDAF05",
                         "name": "Algoritmer, datastrukturer och komplexitet",
-                        "hp": "5"
+                        "hp": "5",
+                        "link": ""
                     },
                     {
                         "code": "EITA10",
                         "name": "Elektronik",
-                        "hp": "5"
+                        "hp": "5",
+                        "link": ""
                     },
                     {
                         "code": "EDAF95",
                         "name": "Grundläggande funktionsprogrammering",
-                        "hp": "5"
+                        "hp": "5",
+                        "link": ""
                     }
                 ]
             }
@@ -179,12 +203,14 @@
                     {
                         "code": "FRTF05",
                         "name": "Reglerteknik, AK",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "EDAP10",
                         "name": "Flertrådad Programmering",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     }
                 ]
             },
@@ -194,12 +220,14 @@
                     {
                         "code": "ETSF25",
                         "name": "Affärsdrivenprogramvaruutveckling",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "FMSF20",
                         "name": "Matematisk Statistik, AK",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     }
                 ]
             },
@@ -209,17 +237,20 @@
                     {
                         "code": "EITA25",
                         "name": "Datasäkerhet",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     },
                     {
                         "code": "FMNF05",
                         "name": "Numerisk analys",
-                        "hp": "6"
+                        "hp": "6",
+                        "link": ""
                     },
                     {
                         "code": "FMIF45",
                         "name": "Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik",
-                        "hp": "4"
+                        "hp": "4",
+                        "link": ""
                     }
                 ]
             },
@@ -229,17 +260,20 @@
                     {
                         "code": "FMIF45",
                         "name": "Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik",
-                        "hp": "4"
+                        "hp": "4",
+                        "link": ""
                     },
                     {
                         "code": "EITF95",
                         "name": "Kösystem",
-                        "hp": "4,5"
+                        "hp": "4,5",
+                        "link": ""
                     },
                     {
                         "code": "EITA50",
                         "name": "Signalbehandling i multimedia",
-                        "hp": "7,5"
+                        "hp": "7,5",
+                        "link": ""
                     }
                 ]
             }
