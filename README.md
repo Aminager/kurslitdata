@@ -5,6 +5,11 @@ Kurslitteratur för dom som pluggar Datateknik på LTH
 
 Hittas på [dsekkurslit.netlify.app](https://dsekkurslit.netlify.app)
 
+# Not finished
+The project is not finished!!
+
+Many courses do not have any link attached.
+
 
 # License
 MIT License
