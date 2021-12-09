@@ -10,9 +10,9 @@ export default function Year({ year }) {
 
 
     return (
-        <div key={year}>
-            <h1 className="year">Year {year}</h1>
-            {createSemesters(4)}
+        <div className="year" key={year}>
+            <h1 className="yearheader">Year {year}</h1>
+            <p className="semester">{createSemesters(4)}</p>
         </div>
     );
 }

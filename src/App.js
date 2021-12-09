@@ -15,8 +15,6 @@ function App() {
         <Route path="/year1" element={<Year year="1"/>}></Route>
         <Route path="/year2" element={<Year year="2"/>}></Route>
         <Route path="/year3" element={<Year year="3"/>}></Route>
-        <Route path="/year4" element={<Year year="4"/>}></Route>
-        <Route path="/year5" element={<Year year="5"/>}></Route>
       </Routes>
     </Router>
 

@@ -1,11 +1,57 @@
-.year {
+.home {
+    font-family: 'Poppins', sans-serif; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 1.5rem;
+}
+
+.yearheader {
+    margin-top: 50px;
     text-align: center;
 }
 
-.lp {
-
+.year {
+    
 }
 
-.course {
-    border: 3px;
+.courses {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
 }
+
+.semester {
+    display: grid;
+    grid-template-columns: 800px 800px;
+    grid-gap: 30px;
+    text-align: center;
+    position: relative;
+    column-gap: 5px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    margin-top: 0px;
+    background-color: #f570f0;
+}
+
+.navitem {
+    padding: 15px;
+    float: left;
+    text-align: center;
+    color: rgb(243, 243, 243);
+}
+
+

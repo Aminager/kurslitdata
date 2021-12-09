@@ -1,6 +1,7 @@
 import React from "react";
 import Course from './Course'
 import Courses from '../Courses.json'
+import courses from '../styles/Components.css'
 
 export default function Semester({ year, period }) {
 
@@ -13,9 +14,9 @@ export default function Semester({ year, period }) {
     }
 
     return (
-        <div key={year + "" + period}>
-            <h2 className="semester">Läsperiod {period} </h2>
-            <h4>{getCourses()}</h4>
+        <div  key={year + "" + period}>
+            <h2>Läsperiod {period} </h2>
+            <h4 className="courses">{getCourses()}</h4>
         </div>
 
     );

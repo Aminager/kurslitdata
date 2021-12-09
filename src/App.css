@@ -2,15 +2,4 @@
   text-align: center;
 }
 
-.nav-bar {
-  overflow: hidden;
-  width: 100%;
-  margin-top: 0px;
-  background-color: blueviolet;
-}
 
-.nav-item {
-  padding: 15px;
-  float: left;
-  text-align: center;
-}
