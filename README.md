@@ -2,7 +2,7 @@
 
 # kurslitdata
 Kurslitteratur för dom som pluggar Datateknik på LTH
-Hittas på dsekkurslit.netlify.app
+Hittas på www.dsekkurslit.netlify.app
 
 
 # License
